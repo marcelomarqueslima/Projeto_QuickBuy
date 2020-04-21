@@ -1,0 +1,9 @@
+D:\Projetos_Estudos\ProjetoEstudoASPNET\QuickBuy\QuickBuy.Dominio\bin\Debug\netcoreapp2.2\QuickBuy.Dominio.deps.json
+D:\Projetos_Estudos\ProjetoEstudoASPNET\QuickBuy\QuickBuy.Dominio\bin\Debug\netcoreapp2.2\QuickBuy.Dominio.dll
+D:\Projetos_Estudos\ProjetoEstudoASPNET\QuickBuy\QuickBuy.Dominio\bin\Debug\netcoreapp2.2\QuickBuy.Dominio.pdb
+D:\Projetos_Estudos\ProjetoEstudoASPNET\QuickBuy\QuickBuy.Dominio\obj\Debug\netcoreapp2.2\QuickBuy.Dominio.csprojAssemblyReference.cache
+D:\Projetos_Estudos\ProjetoEstudoASPNET\QuickBuy\QuickBuy.Dominio\obj\Debug\netcoreapp2.2\QuickBuy.Dominio.csproj.CoreCompileInputs.cache
+D:\Projetos_Estudos\ProjetoEstudoASPNET\QuickBuy\QuickBuy.Dominio\obj\Debug\netcoreapp2.2\QuickBuy.Dominio.AssemblyInfoInputs.cache
+D:\Projetos_Estudos\ProjetoEstudoASPNET\QuickBuy\QuickBuy.Dominio\obj\Debug\netcoreapp2.2\QuickBuy.Dominio.AssemblyInfo.cs
+D:\Projetos_Estudos\ProjetoEstudoASPNET\QuickBuy\QuickBuy.Dominio\obj\Debug\netcoreapp2.2\QuickBuy.Dominio.dll
+D:\Projetos_Estudos\ProjetoEstudoASPNET\QuickBuy\QuickBuy.Dominio\obj\Debug\netcoreapp2.2\QuickBuy.Dominio.pdb

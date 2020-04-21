@@ -1,0 +1,12 @@
+D:\Projetos_Estudos\ProjetoEstudoASPNET\QuickBuy\QuickBuy.Repositorio\bin\Debug\netcoreapp2.2\QuickBuy.Repositorio.deps.json
+D:\Projetos_Estudos\ProjetoEstudoASPNET\QuickBuy\QuickBuy.Repositorio\bin\Debug\netcoreapp2.2\QuickBuy.Repositorio.dll
+D:\Projetos_Estudos\ProjetoEstudoASPNET\QuickBuy\QuickBuy.Repositorio\bin\Debug\netcoreapp2.2\QuickBuy.Repositorio.pdb
+D:\Projetos_Estudos\ProjetoEstudoASPNET\QuickBuy\QuickBuy.Repositorio\bin\Debug\netcoreapp2.2\QuickBuy.Dominio.dll
+D:\Projetos_Estudos\ProjetoEstudoASPNET\QuickBuy\QuickBuy.Repositorio\bin\Debug\netcoreapp2.2\QuickBuy.Dominio.pdb
+D:\Projetos_Estudos\ProjetoEstudoASPNET\QuickBuy\QuickBuy.Repositorio\obj\Debug\netcoreapp2.2\QuickBuy.Repositorio.csprojAssemblyReference.cache
+D:\Projetos_Estudos\ProjetoEstudoASPNET\QuickBuy\QuickBuy.Repositorio\obj\Debug\netcoreapp2.2\QuickBuy.Repositorio.csproj.CoreCompileInputs.cache
+D:\Projetos_Estudos\ProjetoEstudoASPNET\QuickBuy\QuickBuy.Repositorio\obj\Debug\netcoreapp2.2\QuickBuy.Repositorio.AssemblyInfoInputs.cache
+D:\Projetos_Estudos\ProjetoEstudoASPNET\QuickBuy\QuickBuy.Repositorio\obj\Debug\netcoreapp2.2\QuickBuy.Repositorio.AssemblyInfo.cs
+D:\Projetos_Estudos\ProjetoEstudoASPNET\QuickBuy\QuickBuy.Repositorio\obj\Debug\netcoreapp2.2\QuickBuy.Repositorio.csproj.CopyComplete
+D:\Projetos_Estudos\ProjetoEstudoASPNET\QuickBuy\QuickBuy.Repositorio\obj\Debug\netcoreapp2.2\QuickBuy.Repositorio.dll
+D:\Projetos_Estudos\ProjetoEstudoASPNET\QuickBuy\QuickBuy.Repositorio\obj\Debug\netcoreapp2.2\QuickBuy.Repositorio.pdb
